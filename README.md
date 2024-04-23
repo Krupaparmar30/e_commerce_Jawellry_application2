@@ -1,4 +1,4 @@
-![Screenshot_20240423_110335](https://github.com/Krupaparmar30/e_commerce_Jawellry_application2/assets/149374671/abfd4627-190d-47c9-b770-f5ed4813c7e6)# e_commerce_jawellry_application
+
 <p>
    <img src="https://github.com/Krupaparmar30/e_commerce_Jawellry_application2/assets/149374671/99e4a089-3b1c-422e-ae21-54e9abf5d369"width=22% height=35%><br>
    <img src="https://github.com/Krupaparmar30/e_commerce_Jawellry_application2/assets/149374671/60f1ada2-5ae6-473c-af75-691c2769b89d"width=22% height=35%><br>
