@@ -1,4 +1,8 @@
 # e_commerce_jawellry_application
+<p>
+   <img src="https://github.com/Krupaparmar30/e_commerce_Jawellry_application2/assets/149374671/99e4a089-3b1c-422e-ae21-54e9abf5d369"width=22% height=35%><br>
+
+</p>
 
 A new Flutter project.
 
